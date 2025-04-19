@@ -3,3 +3,11 @@
 .env.*.local 
 node_modules
 .next
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env.local
+.env.*.local

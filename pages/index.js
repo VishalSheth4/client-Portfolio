@@ -46,8 +46,8 @@ export default function Portfolio() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-100 via-purple-100 to-pink-100 dark:from-blue-900 dark:via-purple-900 dark:to-pink-900">
       <Head>
-        <title>John Doe - Full Stack Developer</title>
-        <meta name="description" content="Portfolio of John Doe - Full Stack Developer specializing in React and Node.js" />
+        <title>Harshal Orawala - Full Stack Developer</title>
+        <meta name="description" content="Portfolio of Harshal Orawala - Full Stack Developer specializing in React and Node.js" />
       </Head>
 
       <div className="max-w-7xl mx-auto px-4 py-12 space-y-12">
@@ -56,14 +56,14 @@ export default function Portfolio() {
           <div className="relative w-32 h-32 mx-auto mb-8 rounded-full overflow-hidden">
             <Image
               src="/profile.jpg"
-              alt="John Doe"
+              alt="Harshal Orawala"
               layout="fill"
               objectFit="cover"
               className="rounded-full"
             />
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-            John Doe
+            Harshal Orawala
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8">
             Full Stack Developer & UI/UX Designer
